@@ -1,0 +1,6 @@
+CACHE MANIFEST
+#1.manifest test only version:1
+http://www.coolguy.pw/berbonjs/1.js
+http://cdn.bootcss.com/jquery/2.1.4/jquery.min.js
+NETWORK:
+berbonjs.js
